@@ -1,0 +1,1 @@
+A simple ToDo list app created with basic JavaScript.
